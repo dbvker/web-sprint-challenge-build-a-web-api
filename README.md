@@ -147,7 +147,12 @@ We have provided test data for all the resources.
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
+  - Node.js and Express allow us to make api calls to our database. They allow us to complete functions that users need to do.
 1. Understand and explain the use of Middleware.
+  - Middleware allows us to clean up code and run a function when we need to validate or complete a task that happens often such as validating ID's
 1. The basic principles of the REST architectural style.
+  - client–server architecture, statelessness, cacheability, use of a layered system, support for code on demand, and using a uniform interface
 1. Understand and explain the use of Express Routers.
+  - Routers allow us to connect to methods in a database and execute CRUD operations.
 1. Describe tooling used to manually test the correctness of an API.
+  - Postman allows us to connect to the endpoint and get data back based on our requests.
